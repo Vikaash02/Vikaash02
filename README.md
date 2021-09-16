@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikaash02
-- 👀 I’m interested in Rust-based projects
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning CI/CD
 - 📫 Reach me at jbvikaash@gmail.com
 
 <!---
